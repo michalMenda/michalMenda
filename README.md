@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michal Menda
 
-### 💻 Software Developer | Fullstack & Backend | C++, C#, Java, Python, JavaScript, TypeScript
+### Software Developer | Fullstack & Backend | C++, C#, Java, Python, JavaScript, TypeScript
 
 Multidisciplinary software developer with experience in building end-to-end solutions – from responsive web applications to advanced backend systems and OOP projects.  
 Fast learner with strong analytical skills, teamwork orientation, and the ability to deliver high-quality code in agile environments.
@@ -27,12 +27,12 @@ Fast learner with strong analytical skills, teamwork orientation, and the abilit
 ---
 
 ## 📌 Selected Projects
-- [📊 Volunteer Management System](https://github.com/sara6310472/dotNet5785_9427_1873) – C# / .NET Framework  
-- [🌐 Social Network](https://github.com/michalMenda/social-api-project) – React, Node.js, MySQL  
-- 🎮 Interactive Games – HTML, CSS, JavaScript  
+- Volunteer Management System – [GitHub](https://github.com/sara6310472/dotNet5785_9427_1873) (C# / .NET Framework)  
+- Social Network – [GitHub](https://github.com/michalMenda/social-api-project) (React, Node.js, MySQL)  
+- Interactive Games – HTML, CSS, JavaScript  
 
 ---
 
 ## 📫 Contact
-- ✉️ m0583216525@gmail.com  
-- 🐙 [GitHub](https://github.com/michalMenda)  
+- Email: **m0583216525@gmail.com**  
+- GitHub: [michalMenda](https://github.com/michalMenda)  
