@@ -1,39 +1,38 @@
-# 👋 היי, אני מיכל מנדה
+# 👋 Hi, I'm Michal Menda
 
 ### 💻 Software Developer | Fullstack & Backend | C++, C#, Java, Python, JavaScript, TypeScript
 
-אני מפתחת תוכנה רב־תחומית עם ניסיון בפיתוח מערכות מקצה לקצה – החל מממשקי Web רספונסיביים ועד פתרונות Backend מתקדמים ושפות OOP.  
-בעלת יכולת למידה מהירה, חשיבה אנליטית ויכולת להשתלב ולהוביל צוותי פיתוח מקצועיים.
+Multidisciplinary software developer with experience in building end-to-end solutions – from responsive web applications to advanced backend systems and OOP projects.  
+Fast learner with strong analytical skills, teamwork orientation, and the ability to deliver high-quality code in agile environments.
 
 ---
 
-## 🚀 ניסיון
-**פרקטיקום – חברת עוז תוכנה, ירושלים | 2025–הווה**  
-- פיתוח Full-stack עם React, TypeScript, Node.js, NestJS, Prisma ו-PostgreSQL.  
-- בניית ממשקי משתמש רספונסיביים ושירותי Backend חזקים בארכיטקטורה מודולרית.  
-- ניהול מצב ואסינכרוניות עם React Query ו-Context API.  
-- עבודה בצוות אג'ילי עם Git ו-ClickUp, תוך שיפור איכות הקוד.  
+## 🚀 Experience
+**Practicum – Oz Software, Jerusalem | 2025–Present**  
+- Fullstack development with React, TypeScript, Node.js, NestJS, Prisma, and PostgreSQL.  
+- Built responsive user interfaces and scalable backend services using modular architecture.  
+- State management and async handling with React Query & Context API.  
+- Agile team collaboration with Git and ClickUp, improving code quality and productivity.  
 
 ---
 
-## 🛠️ טכנולוגיות וכלים
-- **שפות תכנות:** C, C++, C#, Java, Python, JavaScript, TypeScript  
+## 🛠️ Skills & Tools
+- **Programming Languages:** C, C++, C#, Java, Python, JavaScript, TypeScript  
 - **Frontend:** React, HTML, CSS, React Router, React Query, Context API  
 - **Backend:** Node.js, Express, NestJS, Prisma  
 - **Databases:** MySQL, PostgreSQL, SQL  
-- **כלי פיתוח:** Git, GitHub, VS Code, IntelliJ IDEA, PyCharm, Visual Studio  
-- **עקרונות ותפיסות:** OOP, MVC, REST API, Agile, אבטחת מידע בסיסית  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, PyCharm, Visual Studio  
+- **Concepts:** OOP, MVC, REST API, Agile, basic Information Security  
 
 ---
 
-## 📌 פרויקטים נבחרים
-- [📊 מערכת ניהול מתנדבים](https://github.com/sara6310472/dotNet5785_9427_1873) – C#/.NET Framework  
-- [🌐 רשת חברתית](https://github.com/michalMenda/social-api-project) – React, Node.js, MySQL  
-- 🎮 משחקים אינטראקטיביים – HTML, CSS, JavaScript  
+## 📌 Selected Projects
+- [📊 Volunteer Management System](https://github.com/sara6310472/dotNet5785_9427_1873) – C# / .NET Framework  
+- [🌐 Social Network](https://github.com/michalMenda/social-api-project) – React, Node.js, MySQL  
+- 🎮 Interactive Games – HTML, CSS, JavaScript  
 
 ---
 
-## 📫 יצירת קשר
+## 📫 Contact
 - ✉️ m0583216525@gmail.com  
 - 🐙 [GitHub](https://github.com/michalMenda)  
-
