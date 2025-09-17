@@ -5,12 +5,20 @@
 Multidisciplinary software developer with experience in building end-to-end solutions – from responsive web applications to advanced backend systems and OOP projects.  
 Fast learner with strong analytical skills, teamwork orientation, and the ability to deliver high-quality code in agile environments.
 
+---
+
+## 🎓 Education
+
+- **Computer Science Practical Engineering Studies | 2023–2025**  
+  Key courses: Data Structures & Algorithms, Advanced C++, OOP, Databases, Web Development, AI, Cybersecurity
+
+- **Teaching Certificate | 2024**
 
 ---
 
 ## 🚀 Experience
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Practicum – Oz Software, Jerusalem | 2025–Present**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Oz Software, Jerusalem | 2025–Present**
 - Fullstack development with React, TypeScript, Node.js, NestJS, Prisma, and PostgreSQL.  
 - Built responsive user interfaces and scalable backend services using modular architecture.  
 - State management and async handling with React Query & Context API.  
