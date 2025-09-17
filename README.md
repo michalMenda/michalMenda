@@ -37,9 +37,10 @@ Fast learner with strong analytical skills, teamwork orientation, and the abilit
 ---
 
 ## 📌 Selected Projects
-- Volunteer Management System – [GitHub](https://github.com/sara6310472/dotNet5785_9427_1873) (C# / .NET Framework)  
+- Volunteer Management System – [GitHub](https://github.com/sara6310472/dotNet5785_9427_1873) (C# / .NET Framework)
+- Swimming lesson management platform – [GitHub](https://github.com/Ayala0533170483/swim-app) (React, Node.js, MySQL)
 - Social Network – [GitHub](https://github.com/michalMenda/social-api-project) (React, Node.js, MySQL)  
-- Interactive Games – HTML, CSS, JavaScript  
+
 
 ---
 
