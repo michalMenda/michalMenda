@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michal Menda <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+#  Hi, I'm Michal Menda <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 ### Software Developer | Fullstack & Backend | C++, C#, Java, Python, JavaScript, TypeScript.
 
