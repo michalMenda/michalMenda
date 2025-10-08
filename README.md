@@ -1,6 +1,6 @@
 #  👋 Hi, I'm Michal Menda <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-### Software Developer | Fullstack & Backend | C++, C#, Java, Python, TypeScript, JavaScript.
+### Software Developer | Fullstack & Backend | C++, C#, Java, Python, JavaScript, TypeScript.
 
 Multidisciplinary software developer with experience in building end-to-end solutions – from responsive web applications to advanced backend systems and OOP projects.  
 Fast learner with strong analytical skills, teamwork orientation, and the ability to deliver high-quality code in agile environments.
